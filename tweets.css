@@ -1,0 +1,290 @@
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+
+.tweet .copy:before {
+  white-space: pre-wrap;
+}
+	    	#tweet-1 .avatar {
+	    		background: url("http://pbs.twimg.com/profile_images/433687343078203392/hjLZLvxa_normal.jpeg");
+			}
+						#tweet-1 .name::before {
+				content: "Engine";
+			}
+			
+			#tweet-1 .handle::after {
+				content: "EngineBiddeford";
+			}
+			
+	    	#tweet-1 .copy::before {
+	    		content: "Open mic-free nights are starting to catch on. #feedtheengine #biddeford https://t.co/fiXxBVyPeN";
+	    	}
+	    	
+	    	#tweet-1 .timestamp::after {
+	    		content: "Fri Aug 12 18:30:02 +0000 2011";
+	    	}
+	    	
+	    	#tweet-2 .avatar {
+	    		background: url("http://pbs.twimg.com/profile_images/378800000171511239/7f383cbe8eb758fc8c125fd2fc638144_normal.jpeg");
+			}
+						#tweet-2 .name::before {
+				content: "S.Luxe";
+			}
+			
+			#tweet-2 .handle::after {
+				content: "QualityLyfe";
+			}
+			
+	    	#tweet-2 .copy::before {
+	    		content: "RT @mic: This Trump voter blamed anti-white discrimination for his coffee being late: https://t.co/Ov6nXc2vJa";
+	    	}
+	    	
+	    	#tweet-2 .timestamp::after {
+	    		content: "Wed Dec 14 00:11:56 +0000 2011";
+	    	}
+	    	
+	    	#tweet-3 .avatar {
+	    		background: url("http://pbs.twimg.com/profile_images/795381846011875328/FBzhPv1b_normal.jpg");
+			}
+						#tweet-3 .name::before {
+				content: "TEEJ NEPOMUCENO";
+			}
+			
+			#tweet-3 .handle::after {
+				content: "teejnepomuceno";
+			}
+			
+	    	#tweet-3 .copy::before {
+	    		content: "#Hillary_Clinton wore little makeup for her speech last night — and people loved it https://t.co/QR1MAUJD8O… https://t.co/AtPl8kPE5o";
+	    	}
+	    	
+	    	#tweet-3 .timestamp::after {
+	    		content: "Mon Mar 30 15:42:12 +0000 2009";
+	    	}
+	    	
+	    	#tweet-4 .avatar {
+	    		background: url("http://pbs.twimg.com/profile_images/793717839781765120/bJlJXZaB_normal.jpg");
+			}
+						#tweet-4 .name::before {
+				content: "✧リリエル✧１２月海✧";
+			}
+			
+			#tweet-4 .handle::after {
+				content: "Mic_M_99star";
+			}
+			
+	    	#tweet-4 .copy::before {
+	    		content: "RT @DisneylandBerry: #HappyBirthdayMickey from Disneyland Paris! https://t.co/Br6ljw817a";
+	    	}
+	    	
+	    	#tweet-4 .timestamp::after {
+	    		content: "Wed Feb 03 10:39:56 +0000 2016";
+	    	}
+	    	
+	    	#tweet-5 .avatar {
+	    		background: url("http://pbs.twimg.com/profile_images/666059888343166977/UqiNt08q_normal.png");
+			}
+						#tweet-5 .name::before {
+				content: "Hooah";
+			}
+			
+			#tweet-5 .handle::after {
+				content: "SFCArmyWifeMN";
+			}
+			
+	    	#tweet-5 .copy::before {
+	    		content: "{{ MIC DROP }} https://t.co/CdfHd0yYTV";
+	    	}
+	    	
+	    	#tweet-5 .timestamp::after {
+	    		content: "Sat May 05 00:56:24 +0000 2012";
+	    	}
+	    	
+	    	#tweet-6 .avatar {
+	    		background: url("http://pbs.twimg.com/profile_images/796341192480985088/P4rxBD7u_normal.jpg");
+			}
+						#tweet-6 .name::before {
+				content: "elena";
+			}
+			
+			#tweet-6 .handle::after {
+				content: "yugyeorm";
+			}
+			
+	    	#tweet-6 .copy::before {
+	    		content: "RT @ultpcysobi: WHY IS NO ONE TALKING ABOUT HOSEOK'S PROFESSIONALISM AS A PERFORMER! HIS MIC FELL YET HE MANAGED TO PUT IT BACK WHILE DANCI…";
+	    	}
+	    	
+	    	#tweet-6 .timestamp::after {
+	    		content: "Sat Feb 09 19:08:45 +0000 2013";
+	    	}
+	    	
+	    	#tweet-7 .avatar {
+	    		background: url("http://pbs.twimg.com/profile_images/772152544047009792/BRDhE5X9_normal.jpg");
+			}
+						#tweet-7 .name::before {
+				content: "Martin Christie";
+			}
+			
+			#tweet-7 .handle::after {
+				content: "PoetAndTheLoops";
+			}
+			
+	    	#tweet-7 .copy::before {
+	    		content: "Open Mic @ Honley Grape Room 2 Dec 2016 @omfuk @YorkshireGigGui @HonleyShow @Welcometoholmf @Love_Holmfirth… https://t.co/Wi6eHnkZzV";
+	    	}
+	    	
+	    	#tweet-7 .timestamp::after {
+	    		content: "Wed Dec 21 17:33:21 +0000 2011";
+	    	}
+	    	
+	    	#tweet-8 .avatar {
+	    		background: url("http://pbs.twimg.com/profile_images/798969013271490560/Saz9gVBI_normal.jpg");
+			}
+						#tweet-8 .name::before {
+				content: "* Houis♡ *";
+			}
+			
+			#tweet-8 .handle::after {
+				content: "Leticialu1d";
+			}
+			
+	    	#tweet-8 .copy::before {
+	    		content: "RT @Zedd: Thanks to my dawg @LiamPayne for coming out last night and saving my life on the mic while my laptop crashed. 😂 https://t.co/z2WF…";
+	    	}
+	    	
+	    	#tweet-8 .timestamp::after {
+	    		content: "Tue Jul 01 16:15:23 +0000 2014";
+	    	}
+	    	
+	    	#tweet-9 .avatar {
+	    		background: url("http://pbs.twimg.com/profile_images/798526607547731968/QmNCxiBN_normal.jpg");
+			}
+						#tweet-9 .name::before {
+				content: "DOPH0ne Ejena";
+			}
+			
+			#tweet-9 .handle::after {
+				content: "phone_Ejena";
+			}
+			
+	    	#tweet-9 .copy::before {
+	    		content: "RT @chanbaekwhearts: adjusting mic for the giant feat yixing 💫 https://t.co/AuDlpMuMp2";
+	    	}
+	    	
+	    	#tweet-9 .timestamp::after {
+	    		content: "Sat May 04 12:54:20 +0000 2013";
+	    	}
+	    	
+	    	#tweet-10 .avatar {
+	    		background: url("http://pbs.twimg.com/profile_images/797424894309007360/gnMMJbBk_normal.jpg");
+			}
+						#tweet-10 .name::before {
+				content: "Valerie";
+			}
+			
+			#tweet-10 .handle::after {
+				content: "MyndfulMama";
+			}
+			
+	    	#tweet-10 .copy::before {
+	    		content: "RT @bclevinger: Stephen Hawking says humans have 1,000 years to leave Earth  https://t.co/U6XmKQmkOo that's the most optimistic thought I'v…";
+	    	}
+	    	
+	    	#tweet-10 .timestamp::after {
+	    		content: "Sun May 20 20:00:19 +0000 2012";
+	    	}
+	    	
+	    	#tweet-11 .avatar {
+	    		background: url("http://pbs.twimg.com/profile_images/740986445888884736/o2DJIk8e_normal.jpg");
+			}
+						#tweet-11 .name::before {
+				content: "Larizzle";
+			}
+			
+			#tweet-11 .handle::after {
+				content: "DJLarizzle";
+			}
+			
+	    	#tweet-11 .copy::before {
+	    		content: "RT @eddyTM: After @sohoradio tonight I'm at @TheSteelyardLDN for @ElectronicLuve with @mcangeluk blessing the mic. @StantonWarriors @DJLari…";
+	    	}
+	    	
+	    	#tweet-11 .timestamp::after {
+	    		content: "Tue Mar 31 21:58:40 +0000 2009";
+	    	}
+	    	
+	    	#tweet-12 .avatar {
+	    		background: url("http://pbs.twimg.com/profile_images/798917740111216641/eSMvG6Ed_normal.jpg");
+			}
+						#tweet-12 .name::before {
+				content: "sierra || namjoon";
+			}
+			
+			#tweet-12 .handle::after {
+				content: "PradaBreastMilk";
+			}
+			
+	    	#tweet-12 .copy::before {
+	    		content: "RT @ultpcysobi: WHY IS NO ONE TALKING ABOUT HOSEOK'S PROFESSIONALISM AS A PERFORMER! HIS MIC FELL YET HE MANAGED TO PUT IT BACK WHILE DANCI…";
+	    	}
+	    	
+	    	#tweet-12 .timestamp::after {
+	    		content: "Sat Jul 30 01:30:10 +0000 2016";
+	    	}
+	    	
+	    	#tweet-13 .avatar {
+	    		background: url("http://pbs.twimg.com/profile_images/792070071044550656/CD5WZTtP_normal.jpg");
+			}
+						#tweet-13 .name::before {
+				content: "ZagCollins";
+			}
+			
+			#tweet-13 .handle::after {
+				content: "ayush84";
+			}
+			
+	    	#tweet-13 .copy::before {
+	    		content: "@canvaslaughclub how do you register as a performer for your open mic nights in Mumbai?";
+	    	}
+	    	
+	    	#tweet-13 .timestamp::after {
+	    		content: "Thu Mar 05 14:14:47 +0000 2009";
+	    	}
+	    	
+	    	#tweet-14 .avatar {
+	    		background: url("http://pbs.twimg.com/profile_images/799196252722384896/8ptvk48O_normal.jpg");
+			}
+						#tweet-14 .name::before {
+				content: "Jade";
+			}
+			
+			#tweet-14 .handle::after {
+				content: "jade_adrielle23";
+			}
+			
+	    	#tweet-14 .copy::before {
+	    		content: "RT @Zedd: Thanks to my dawg @LiamPayne for coming out last night and saving my life on the mic while my laptop crashed. 😂 https://t.co/z2WF…";
+	    	}
+	    	
+	    	#tweet-14 .timestamp::after {
+	    		content: "Sun Dec 27 21:10:54 +0000 2015";
+	    	}
+	    	
+	    	#tweet-15 .avatar {
+	    		background: url("http://pbs.twimg.com/profile_images/798541101883748353/mXDkQIJ1_normal.jpg");
+			}
+						#tweet-15 .name::before {
+				content: "อันชัลย์พัลล๊อบ🍑";
+			}
+			
+			#tweet-15 .handle::after {
+				content: "annawankanok";
+			}
+			
+	    	#tweet-15 .copy::before {
+	    		content: "RT @chanbaekwhearts: adjusting mic for the giant feat yixing 💫 https://t.co/AuDlpMuMp2";
+	    	}
+	    	
+	    	#tweet-15 .timestamp::after {
+	    		content: "Wed Nov 26 14:13:59 +0000 2014";
+	    	}
+	    	
